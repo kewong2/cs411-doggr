@@ -1,4 +1,4 @@
-# cs411-doggr
+# cs411-doggr (Fall 2016)
 
 Doggr is a CS411 Group Project created by the following members:
 
